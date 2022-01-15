@@ -38,7 +38,8 @@
 }
 
 ::-webkit-scrollbar {
-  width: 10%; /* Remove scrollbar space */
+  width: 10%;
+  display:block;/* Remove scrollbar space */
   /* Optional: just make scrollbar invisible */
 }
 
