@@ -6,7 +6,7 @@
 
 ## Introduction
 
-I create a full Realtime Chat Application with Social Auth and dedicated chat APIs/sockets.
+I created a full Realtime Chat Application with Social Auth and dedicated chat APIs/sockets.
 
 It is build on react, using [https://chatengine.io](https://chatengine.io)
 
